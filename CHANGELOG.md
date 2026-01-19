@@ -1,5 +1,13 @@
 # Changelog
 
+## [14.3.2](https://github.com/strugee/go-hass-agent/compare/v14.3.1...v14.3.2) (2026-01-19)
+
+
+### Bug Fixes
+
+* **linux/hwmon:** :bug: fix when warning about device model is shown ([8cb0669](https://github.com/strugee/go-hass-agent/commit/8cb0669a24c7abb46e8e25aace97a43c82cceafb))
+* **linux/power:** :bug: add a check to ensure system has required brightness controls when creating brightness worker ([d5c8f6f](https://github.com/strugee/go-hass-agent/commit/d5c8f6ffae0700cde2223abc8559545c737161f0))
+
 ## [14.3.1](https://github.com/joshuar/go-hass-agent/compare/v14.3.0...v14.3.1) (2025-12-26)
 
 
